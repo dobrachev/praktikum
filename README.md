@@ -14,3 +14,13 @@ E-commerce - Анализ товарного ассортимента</a>
 **Библиотеки:**
 `pandas, numpy, matplotlib, seaborn, scipy`
 <hr>
+
+### 2. <a href="https://github.com/dobrachev/praktikum/blob/main/E-commerce/E-commerce.ipynb" target="blank" rel="noreferrer">
+Прогноз оттока посетителей из сети фитнесс-центров</a>
+
+**Задача:**
+Построение модели прогнозирования факта оттока посетителей сети фитнесс-центров. Сегментация посетителей.
+
+**Библиотеки:**
+`pandas, scipy, matplotlib, seaborn, sklearn`
+<hr>
