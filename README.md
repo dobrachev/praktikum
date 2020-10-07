@@ -24,3 +24,10 @@ E-commerce - Анализ товарного ассортимента</a>
 **Библиотеки:**
 `pandas, scipy, matplotlib, seaborn, sklearn`
 <hr>
+
+| Название        | Задача           | Библиотеки  |
+| :-------------- |:----------------:| -----------:|
+| <a href="https://github.com/dobrachev/praktikum/blob/main/E-commerce/E-commerce.ipynb" target="blank" rel="noreferrer">
+E-commerce - Анализ товарного ассортимента</a>      | Интернет-магазину товаров для дома требуется полноценный анализ товарного ассортимента. Необходимо выделить основной ассортимент и дополнительный. На основе проведённого анализа требуется сформулировать рекомендации для повышения эффективности работы магазина. | `pandas, numpy, matplotlib, seaborn, scipy`|
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
