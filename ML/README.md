@@ -5,7 +5,4 @@
 
 
 ## Cтек технологий
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
+Pandas, Scikit-learn, Matplotlib, Seaborn
